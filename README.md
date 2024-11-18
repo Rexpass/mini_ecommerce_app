@@ -39,6 +39,8 @@ Before you begin, ensure you have met the following requirements:
     
    - lib/: Contains the main code for the Flutter application.
    - pages/: Contains the different pages/screens of the app.
-   - model/: Contains the data models and providers.
-   - services/: Contains the services for fetching data.
+   - model/: Contains the data models.
+   - components/: Contains different components to function the app.
+   - themes/: Contains apperance of the app.
+   - images/: Contains assets.
   
