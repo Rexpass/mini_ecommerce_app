@@ -12,6 +12,9 @@ import 'package:mini_ecommerce_application/themes/light_mode.dart';
 import 'package:provider/provider.dart';
 
 void main() {
+  // Payment integration Method
+  // Chapa.cofigure(privateKey: '');
+
   runApp(
     ChangeNotifierProvider(
       create: (context) => Shop(),
