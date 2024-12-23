@@ -1,13 +1,15 @@
+# Mini Ecommerce Application
+
+A new Flutter project for mini shoe store.
+
 <img width="166" alt="Screenshot 2024-12-23 160420" src="https://github.com/user-attachments/assets/9d2ce43e-0aa6-45c2-a3f4-67575259b3b7" />
 <img width="162" alt="Screenshot 2024-12-23 160408" src="https://github.com/user-attachments/assets/d98150ab-41cc-49c4-8f99-5b6944237667" />
+<img width="163" alt="Screenshot 2024-12-23 160358" src="https://github.com/user-attachments/assets/f6a2558f-d9d6-4781-9b54-56c19d4b7a69" />
 <img width="163" alt="Screenshot 2024-12-23 160358" src="https://github.com/user-attachments/assets/f6a2558f-d9d6-4781-9b54-56c19d4b7a69" />
 <img width="164" alt="Screenshot 2024-12-23 160317" src="https://github.com/user-attachments/assets/a1074d0c-0faf-4cf3-9125-ccd360bfb945" />
 <img width="163" alt="Screenshot 2024-12-23 160305" src="https://github.com/user-attachments/assets/efaf4d18-28f2-45d3-9274-efd7c8fafcd8" />
 <img width="164" alt="Screenshot 2024-12-23 160250" src="https://github.com/user-attachments/assets/b8235b09-0584-458e-a5bf-084ad931073a" />
 <img width="163" alt="Screenshot 2024-12-23 160241" src="https://github.com/user-attachments/assets/6d9bec09-fe51-4dbb-8a97-a2babc8bcfbf" />
-# Task Management App
-
-A new Flutter project for managing tasks.
 
 ## Getting Started
 
