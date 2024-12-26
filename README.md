@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
    ```sh
    git clone https://github.com/Rexpass/mini_ecommerce_app.git
-   cd task_management_app
+   cd mini_ecommerce_app
    ```
 
 2. **Install dependencies:**
